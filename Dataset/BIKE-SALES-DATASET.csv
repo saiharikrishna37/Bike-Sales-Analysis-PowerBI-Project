@@ -1,0 +1,90 @@
+Sales_Order #,Date,Customer_Age,Age_Group,Customer_Gender,Country,State,Product_Category,Sub_Category,Order_Quantity,  Unit_Cost  ,  Unit_Price  ,  Profit  ,  Cost  , Revenue 
+261695,01-12-2021,39,Adults,F,United States,California,Bikes,Mountain Bikes,4,1252,2295,4172,5008,9180
+261695,01-12-2021,44,Adults,M,United Kingdom,England,Bikes,Mountain Bikes,1,1266,2320,1054,1266,2320
+261697,02-12-2021,37,Adults,M, United States,California,Bikes,Mountain Bikes,2,420,769,698,840,1538
+261698,02-12-2021,31,young Adults,F,Australia,New South Wales,Bikes,Mountain Bikes,1,420,769,349,420,769
+261699,03-12-2021,37,Adults,F,United  States,California,Bikes,Mountain Bikes,2,1266,2295,2086,2532,4590
+261700,03-12-2021,24,youth,F,United Kingdom,England,Bikes,Mountain Bikes,1,1252,2295,1043,1252,2295
+261701,03-12-2021,37,Adults,M,United States ,Washington,Bikes,Mountain Bikes,1,1252,2295,1043,1252,2295
+261701,03-12-2021,37,Adults,M,United States,Washington,Bikes,Mountain Bikes,1,1252,2295,1043,1252,2295
+261702,04-12-2021,31,young Adults,F,Australia,New South Wales,Bikes,Mountain Bikes,4,420,769,1396,1680,3076
+261703,05-12-2021,39,Adults,F,United States,California,Bikes,Mountain Bikes,4,1252,2295,4172,5008,9180
+261704,05-12-2021,42,Adults,M,Germany,Nordrhein-Westfalen,Bikes,Mountain Bikes,4,1252,2295,4172,5008,9180
+261705,05-12-2021,35,Adults,F,Australia,Queensland,Bikes,Mountain Bikes,1,1266,2320,1054,1266,2320
+261706,05-12-2021,37,Adults,F,United States,California,Bikes,Mountain Bikes,1,1252,2295,1043,1252,2295
+261707,06-12-2021,23,youth,M,United Kingdom,England,Bikes,Mountain Bikes,3,420,769,1047,1260,2307
+261708,06-12-2021,27,young Adults,M,Canada,British Columbia,Bikes,Mountain Bikes,1,1252,2295,1043,1252,2295
+261709,06-12-2021,36,Adults,M,Australia,New South Wales,Bikes,Mountain Bikes,1,1252,2295,1043,1252,2295
+261710,06-12-2021,47,Adults,M,United Kingdom,England,Bikes,Mountain Bikes,1,1266,2320,1054,1266,2320
+261711,07-12-2021,30,young Adults,M,United States,California,Bikes,Mountain Bikes,4,420,769,1396,1680,3076
+261712,07-12-2021,38,Adults,M,United States,California,Bikes,Mountain Bikes,2,1266,2320,2108,2532,4640
+261713,08-12-2021,19,youth,F,Australia,New South Wales,Bikes,Mountain Bikes,4,308,565,1028,1232,2260
+261714,08-12-2021,30,young Adults,F,Canada,British Columbia,Bikes,Mountain Bikes,4,1266,2320,4216,5064,9280
+261715,08-12-2021,39,Adults,F,United States,Oregon,Bikes,Mountain Bikes,2,1252,2295,2086,2504,4590
+261716,08-12-2021,35,Adults,F,United States,California,Bikes,Mountain Bikes,4,295,540,245,1180,2160
+261717,09-12-2021,33,young Adults,F,Australia,Victoria,Bikes,Mountain Bikes,2,1898,3375,2954,3796,6750
+261718,09-12-2021,41,Adults,F,Germany,Hamburg,Bikes,Mountain Bikes,1,1266,2320,1054,1266,2320
+261719,10-12-2021,34,young Adults,F,United States,California,Bikes,Mountain Bikes,2,1252,2295,2086,2504,4590
+261720,10-12-2021,40,Adults,M,Australia,New South Wales,Bikes,Mountain Bikes,2,1252,2295,2086,2504,4590
+261721,10-12-2021,26,young Adults,M,United Kingdom,England,Bikes,Mountain Bikes,1,1252,2295,1043,1252,2295
+261722,10-12-2021,34,young Adults,M,United States,California,Bikes,Mountain Bikes,1,295,540,245,295,540
+261723,10-12-2021,34,young Adults,F,United States,Washington,Bikes,Mountain Bikes,1,1912,3400,1488,1912,3400
+261724,10-12-2021,38,Adults,M,Australia,New South Wales,Bikes,Mountain Bikes,1,1252,2295,1043,1252,2295
+261725,11-12-2021,24,youth,F,France,Seine (Paris),Bikes,Mountain Bikes,3,1252,2295,3129,3756,6885
+261726,11-12-2021,41,Adults,F,Australia,New South Wales,Bikes,Mountain Bikes,2,420,769,698,840,1538
+261727,11-12-2021,27,young Adults,M,Canada,British Columbia,Bikes,Mountain Bikes,1,1252,2295,1043,1252,2295
+261728,11-12-2021,37,Adults,M,United States,California,Bikes,Mountain Bikes,1,420,769,349,420,769
+261729,11-12-2021,38,Adults,F,United States,California,Bikes,Mountain Bikes,1,1266,2320,1054,1266,2320
+261730,12-12-2021,36,Adults,F,Australia,New South Wales,Bikes,Mountain Bikes,4,1266,2320,4216,5064,9280
+261731,12-12-2021,37,Adults,M,United States,California,Bikes,Mountain Bikes,4,420,769,1396,1680,3076
+261732,12-12-2021,34,young Adults,M,Australia,New South Wales,Bikes,Mountain Bikes,2,1252,2295,2086,2504,4590
+261733,12-12-2021,35,Adults,F,Australia,Victoria,Bikes,Mountain Bikes,1,1266,2320,1054,1266,2320
+261734,12-12-2021,38,Adults,F,United States,Washington,Bikes,Mountain Bikes,1,1266,2320,1054,1266,2320
+261735,13-12-2021,32,young Adults,F,Australia,Queensland,Bikes,Mountain Bikes,3,1266,2320,3162,3798,6960
+261736,13-12-2021,40,Adults,F,United States,California,Bikes,Mountain Bikes,1,308,565,257,308,565
+261737,13-12-2021,44,Adults,F,United Kingdom,England,Bikes,Mountain Bikes,1,1252,2295,1043,1252,2295
+261738,13-12-2021,49,Adults,M,United Kingdom,England,Bikes,Mountain Bikes,1,1252,2295,1043,1252,2295
+261739,14-12-2021,30,young Adults,F,United States,Washington,Bikes,Mountain Bikes,2,1266,2320,2108,2532,4640
+261740,14-12-2021,32,young Adults,M,United States,California,Bikes,Mountain Bikes,1,1252,2295,1043,1252,2295
+261741,14-12-2021,32,young Adults,F,Australia,Victoria,Bikes,Mountain Bikes,1,420,769,349,420,769
+261742,15-12-2021,29,young Adults,F,United States,California,Bikes,Mountain Bikes,1,1266,2320,1054,1266,2320
+261743,16-12-2021,33,young Adults,F,Australia,New South Wales,Bikes,Mountain Bikes,2,1252,2295,2086,2504,4590
+261744,16-12-2021,38,Adults,M,Australia,New South Wales,Bikes,Mountain Bikes,2,1252,2295,2086,2504,4590
+261745,16-12-2021,27,young Adults,F,France,Seine et Marne,Bikes,Mountain Bikes,1,1266,2320,1054,1266,2320
+261746,17-12-2021,37,Adults,F,United States,Washington,Bikes,Mountain Bikes,2,1266,2320,2108,2532,4640
+261747,17-12-2021,31,young Adults,M,Australia,New South Wales,Bikes,Mountain Bikes,1,420,769,349,420,769
+261748,17-12-2021,42,Adults,F,Germany,Nordrhein-Westfalen,Bikes,Mountain Bikes,1,1266,2320,1054,1266,2320
+261749,18-12-2021,35,Adults,F,Australia,New South Wales,Bikes,Mountain Bikes,4,308,565,1028,1232,2260
+261750,18-12-2021,38,Adults,F,Germany,Nordrhein-Westfalen,Bikes,Mountain Bikes,4,1266,2320,4216,5064,9280
+261751,18-12-2021,24,youth,F,France,Seine Saint Denis,Bikes,Mountain Bikes,3,1266,2320,3162,3798,6960
+261752,18-12-2021,26,young Adults,F,United Kingdom,England,Bikes,Mountain Bikes,3,420,769,1047,1260,2307
+261753,18-12-2021,39,Adults,M,United States,California,Bikes,Mountain Bikes,3,1252,2295,3129,3756,6885
+261754,18-12-2021,26,young Adults,M,France,Seine (Paris),Bikes,Mountain Bikes,1,1252,2295,1043,1252,2295
+261755,18-12-2021,36,Adults,M,United States,Washington,Bikes,Mountain Bikes,1,1266,2320,1054,1266,2320
+261756,19-12-2021,17,youth,M,France,Nord,Bikes,Mountain Bikes,4,1266,2320,4216,5064,9280
+261757,19-12-2021,19,youth,F,Australia,Victoria,Bikes,Mountain Bikes,4,295,540,980,1180,2160
+261758,19-12-2021,25,young Adults,M,France,Seine (Paris),Bikes,Mountain Bikes,4,1252,2295,4172,5008,9180
+261759,19-12-2021,35,Adults,F,United States,Oregon,Bikes,Mountain Bikes,4,1898,3375,5908,7592,13500
+261760,19-12-2021,37,Adults,M,United States,Oregon,Bikes,Mountain Bikes,4,1252,2295,4172,5008,9180
+261761,19-12-2021,39,Adults,F,United States,California,Bikes,Mountain Bikes,4,1252,2295,4172,5008,9180
+261762,19-12-2021,63,Adults,F,Australia,Queensland,Bikes,Mountain Bikes,4,1252,2295,4172,5008,9180
+261763,19-12-2021,18,youth,M,Australia,South Australia,Bikes,Mountain Bikes,2,295,540,490,590,1080
+261764,19-12-2021,56,Adults,F,Germany,Hessen,Bikes,Mountain Bikes,2,1252,2295,2086,2504,4590
+261765,19-12-2021,39,Adults,F,United States,Washington,Bikes,Mountain Bikes,1,1266,2320,1054,1266,2320
+261766,20-12-2021,33,young Adults,F,Australia,Victoria,Bikes,Mountain Bikes,4,1898,3375,5908,7592,13500
+261767,20-12-2021,57,Adults,M,Australia,Queensland,Bikes,Mountain Bikes,4,1252,2295,4172,5008,9180
+261768,20-12-2021,29,young Adults,M,Canada,British Columbia,Bikes,Mountain Bikes,3,295,540,735,885,1620
+261769,20-12-2021,35,Adults,F,Australia,Queensland,Bikes,Mountain Bikes,1,1266,2320,1054,1266,2320
+261770,20-12-2021,35,Adults,M,Australia,Victoria,Bikes,Mountain Bikes,1,1266,2320,1054,1266,2320
+261771,21-12-2021,26,young Adults,M,France,Somme,Bikes,Mountain Bikes,3,1266,2320,3162,3798,6960
+261772,21-12-2021,23,youth,M,United Kingdom,England,Bikes,Mountain Bikes,2,420,769,698,840,1538
+261773,22-12-2021,30,young Adults,F,United States,Washington,Bikes,Mountain Bikes,3,1266,2320,3162,3798,6960
+261774,22-12-2021,41,Adults,M,United States,California,Bikes,Mountain Bikes,3,1252,2295,3129,3756,6885
+261775,22-12-2021,19,youth,F,Australia,New South Wales,Bikes,Mountain Bikes,1,308,565,257,308,565
+261776,22-12-2021,25,young Adults,M,France,Seine (Paris),Bikes,Mountain Bikes,1,1252,2295,1043,1252,2295
+261777,22-12-2021,27,young Adults,F,Canada,British Columbia,Bikes,Mountain Bikes,1,1252,2295,1043,1252,2295
+261778,22-12-2021,41,Adults,M,Germany,Hessen,Bikes,Mountain Bikes,1,1266,2320,1054,1266,2320
+261779,23-12-2021,30,young Adults,F,United States,Oregon,Bikes,Mountain Bikes,1,1266,2320,1054,1266,2320
+261780,23-12-2021,31,young Adults,F,Canada,British Columbia,Bikes,Mountain Bikes,1,1252,2295,1043,1252,2295
+261781,23-12-2021,35,Adults,F,United States,California,Bikes,Mountain Bikes,1,295,540,245,295,540
+261782,24-12-2021,38,Adults,M,Australia,Queensland,Bikes,Mountain Bikes,4,1252,2295,4172,5008,9180
